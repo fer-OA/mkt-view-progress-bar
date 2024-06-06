@@ -191,6 +191,6 @@ body {
   		.tipsy-east { background-position: right center; }
   		.tipsy-west { background-position: left center; }
   		.tipsy-container { border: 1px solid green;}
-p strong {
+p {
     font-family: 'Pacifico', cursive;
 }
