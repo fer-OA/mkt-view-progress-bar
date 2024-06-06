@@ -64,10 +64,10 @@ body {
 		
 		h2 {
 		text-transform: uppercase;
-		color: #f2a93c;
+		color: #ee795d;
 		font-family: Nunito;
 		font-size: 24px;
-		font-weight: lighter;
+		font-weight: bold;
 		text-shadow: 0px 2px 0px #000;
 		margin: 15px 0 15px 20px;
 		text-align: left;
@@ -191,6 +191,7 @@ body {
   		.tipsy-east { background-position: right center; }
   		.tipsy-west { background-position: left center; }
   		.tipsy-container { border: 1px solid green;}
-p {
+p strong {
     font-family: 'Pacifico', cursive;
+	font-weight: normal;
 }
